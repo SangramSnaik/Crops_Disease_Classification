@@ -1,1 +1,2 @@
-# Data_Preprocessing_EDA
+# Potato Disease Classification
+Setup for Python:
