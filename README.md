@@ -5,5 +5,11 @@ Technology stack for this project will be :
 Model Building: tensorflow, CNN, tf dataset
 
 
-Setup for Python:
+Setup for Python
+
 Install Tensorflow Serving 
+
+Training the Model :
+1.Download the data from kaggle.
+2.Only keep folders related to Potatoes.
+3.Run Jupyter Notebook in Browser.
