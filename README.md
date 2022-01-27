@@ -5,7 +5,7 @@ Technology stack for this project will be :
 Model Building: tensorflow, CNN, tf dataset
 
 
-Setup for Python
+Setup for Python : jupyter notbook.
 
 Install Tensorflow Serving 
 
